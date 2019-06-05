@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Predator",
+        "url": "images/uber-car-2.jpg",
+        "dia": 25,
+        "mes": "Julho"
+    },
+    {
+        "nome": "Delta",
+        "url": "images/uber-car-3.jpg",
+        "dia": 8,
+        "mes": "Agosto"
+    },
+    {
+        "nome": "FPS Hunter",
+        "url": "images/uber-car-4.jpg",
+        "dia": 16,
+        "mes": "Setembro"
+    },
+    {
+        "nome": "Omega Cube",
+        "url": "images/uber-car-5.jpg",
+        "dia": 25,
+        "mes": "Novembro"
+    }
+]
